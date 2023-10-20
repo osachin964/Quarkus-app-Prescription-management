@@ -1,0 +1,5 @@
+META-INF/panache-archive.marker
+org/stackroute/service/PrescriptionService.class
+org/stackroute/repository/PrescriptionRepository.class
+org/stackroute/model/Prescription.class
+org/stackroute/controller/PrescriptionController.class

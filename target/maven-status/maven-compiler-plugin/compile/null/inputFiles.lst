@@ -1,0 +1,4 @@
+/workspaces/Quarkus-app-Prescription-management/src/main/java/org/stackroute/model/Prescription.java
+/workspaces/Quarkus-app-Prescription-management/src/main/java/org/stackroute/controller/PrescriptionController.java
+/workspaces/Quarkus-app-Prescription-management/src/main/java/org/stackroute/service/PrescriptionService.java
+/workspaces/Quarkus-app-Prescription-management/src/main/java/org/stackroute/repository/PrescriptionRepository.java
